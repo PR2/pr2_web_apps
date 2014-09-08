@@ -17,7 +17,6 @@
   <!-- Dependencies needed to compile this package. -->
   <build_depend>roslib</build_depend>
   <build_depend>rospy</build_depend>
-  <build_depend>webui</build_depend>
   <build_depend>pr2_navigation_global</build_depend>
   <build_depend>pr2_navigation_perception</build_depend>
   <build_depend>pr2_navigation_teleop</build_depend>
@@ -31,7 +30,6 @@
   <!-- Dependencies needed after this package is compiled. -->
   <run_depend>roslib</run_depend>
   <run_depend>rospy</run_depend>
-  <run_depend>webui</run_depend>
   <run_depend>pr2_navigation_global</run_depend>
   <run_depend>pr2_navigation_perception</run_depend>
   <run_depend>pr2_navigation_teleop</run_depend>

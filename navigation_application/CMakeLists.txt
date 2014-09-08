@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 2.8.3)
 project(navigation_application)
 # Load catkin and all dependencies required for this package
 # TODO: remove all from COMPONENTS that are not catkin packages.
-find_package(catkin REQUIRED COMPONENTS roslib rospy webui pr2_navigation_global pr2_navigation_perception pr2_navigation_teleop pr2_machine tf laser_geometry sensor_msgs message_filters nav_msgs)
+find_package(catkin REQUIRED COMPONENTS roslib rospy  pr2_navigation_global pr2_navigation_perception pr2_navigation_teleop pr2_machine tf laser_geometry sensor_msgs message_filters nav_msgs)
 
 # include_directories(include ${Boost_INCLUDE_DIR} ${catkin_INCLUDE_DIRS})
 # CATKIN_MIGRATION: removed during catkin migration
@@ -34,7 +34,7 @@ target_link_libraries(bin/navigation_visualizations ${Boost_LIBRARIES})
 # catkin_package parameters: http://ros.org/doc/groovy/api/catkin/html/dev_guide/generated_cmake_api.html#catkin-package
 # TODO: fill in what other packages will need to use this package
 catkin_package(
-    DEPENDS roslib rospy webui pr2_navigation_global pr2_navigation_perception pr2_navigation_teleop pr2_machine tf laser_geometry sensor_msgs message_filters nav_msgs
+    DEPENDS roslib rospy  pr2_navigation_global pr2_navigation_perception pr2_navigation_teleop pr2_machine tf laser_geometry sensor_msgs message_filters nav_msgs
     CATKIN_DEPENDS # TODO
     INCLUDE_DIRS # TODO include
     LIBRARIES # TODO
