@@ -1,6 +1,6 @@
 <package>
   <name>mannequin_application</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <description>A super simple tool for letting a person position the arms manually, by simply pushing the arm to the location that want. Without out this tool, users are often stuck tweaking joint angles in a script, or holding the arm steady while hitting keys to freeze the arm.</description>
   <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
 

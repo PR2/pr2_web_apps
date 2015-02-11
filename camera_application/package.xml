@@ -1,6 +1,6 @@
 <package>
   <name>camera_application</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <description>A web application to view camera images.</description>
   <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
 

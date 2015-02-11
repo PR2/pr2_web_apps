@@ -1,6 +1,6 @@
 <package>
   <name>pr2_recharge_application</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <description>A web application to make a PR2 plug itself into a standard wall outlet.</description>
   <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
 

@@ -1,6 +1,6 @@
 <package>
   <name>pr2_base_application</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <description>A collection of nodes that multiple apps depend on at runtime.  Eventually, many of these nodes will migrate into pr2_bringup/pr2.launch</description>
   <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
 

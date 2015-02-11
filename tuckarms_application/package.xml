@@ -1,6 +1,6 @@
 <package>
   <name>tuckarms_application</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <description>Web application for tucking the arms of the PR2 robot via the web interface.</description>
   <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
 

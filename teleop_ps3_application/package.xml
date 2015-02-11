@@ -1,6 +1,6 @@
 <package>
   <name>teleop_ps3_application</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <description>This application provides remote control for a PR2 via a Playstation 3 controller.</description>
   <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
 

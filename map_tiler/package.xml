@@ -1,6 +1,6 @@
 <package>
   <name>map_tiler</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <description>rosweb plugin to serve map tiles as jpeg</description>
   <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
 
